@@ -1,10 +1,10 @@
 # PyAutoGUI
-      ##This Program has been created on Jupyter Notebook using Python3
-      ##Author: Saurav
-      ##Published: 20.04.2020
-      ##Objective: To launch any Desktop application and perform desired operations successfully
-      ##Dependencies: Must have python installed along with pyautogui
-      ##Imp. Functions Used:
+      # This Program has been created on Jupyter Notebook using Python3
+      Author: Saurav
+      Published: 20.04.2020
+      Objective: To launch any Desktop application and perform desired operations successfully
+      Dependencies: Must have python installed along with pyautogui
+      Imp. Functions Used:
 
             -pyautogui.position(): Takes no argument, returns current cursor position
             -puautogui.click(int x,int y,button_type,clicks,...): Takes multiple arguments such as where to click (x,y), left/right, single/double clicks
