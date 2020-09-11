@@ -1,5 +1,5 @@
 # PyAutoGUI
-      # This Program has been created on Jupyter Notebook using Python3
+      This Program has been created on Jupyter Notebook using Python3
       Author: Saurav
       Published: 20.04.2020
       Objective: To launch any Desktop application and perform desired operations successfully
@@ -27,15 +27,15 @@ Solution Approach from scratch for building similar code any other application:
        positions of further clicks in similar fashion
 '''
 
-'''Rough-Work:
+    Rough-Work:
 
-#Some trial and error
+    Some trial and error
 
-#print(pyautogui.position())
-#pyautogui.hotkey('Alt','Tab')
-#pyautogui.typewrite(['enter'])
-#pyautogui.keyDown("shift")
-#pyautogui.keyUp("shift")
-#pyautogui.keyDown('7')
-#pyautogui.click(1630,452)
-#print(pyautogui.position())
+    #print(pyautogui.position())
+    #pyautogui.hotkey('Alt','Tab')
+    #pyautogui.typewrite(['enter'])
+    #pyautogui.keyDown("shift")
+    #pyautogui.keyUp("shift")
+    #pyautogui.keyDown('7')
+    #pyautogui.click(1630,452)
+    #print(pyautogui.position())
