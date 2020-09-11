@@ -1,4 +1,4 @@
-# PyGUI
+# PyAutoGUI
 ##This Program has been created on Jupyter Notebook using Python3
 ##Author: Saurav
 ##Published: 20.04.2020
